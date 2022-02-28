@@ -17,6 +17,8 @@
     "prettier": "^2.5.1"
   },
   "dependencies": {
-    "body": "^5.1.0"
+    "axios": "^0.26.0",
+    "body": "^5.1.0",
+    "formidable": "^2.0.1"
   }
 }
